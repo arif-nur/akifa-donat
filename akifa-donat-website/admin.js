@@ -1,4 +1,4 @@
-const PASS="akifa123";
+const PASS="akifadonat.123";
 const loginCard=document.getElementById("loginCard"), dashboard=document.getElementById("dashboard");
 function loadDashboard(){
   const orders=JSON.parse(localStorage.getItem("akifaOrders")||"[]");

@@ -2,10 +2,10 @@ const PRODUCTS = [
   ["Donat Keju","Taburan keju melimpah.","✦","ChatGPT Image Nov 14, 2026, 05_01_51 AM.png"],
   ["Donat Oreo","Krim dan remahan Oreo.","●","ChatGPT Image Nov 14, 2026, 05_01_19 AM.png"],
   ["Donat Greentea","Glaze greentea yang khas.","✦","ChatGPT Image Nov 14, 2026, 05_02_04 AM.png"],
-  ["Donat Red Velvet","Tampilan merah yang menggoda.","●","ChatGPT Image Nov 14, 2026, 05_02_35 AM.png"],
+  ["Donat Red Velvet","Tampilan merah yang menggoda.","●","ChatGPT Image Nov 14, 2026, 05_02_13 AM.png"],
   ["Donat Tiramisu","Perpaduan krim dan cokelat.","✦","ChatGPT Image Nov 14, 2026, 05_02_19 AM.png"],
   ["Donat Blueberry","Glaze blueberry yang manis.","●","ChatGPT Image Nov 14, 2026, 05_02_28 AM.png"],
-  ["Donat Taro","Glaze taro berwarna ungu.","✦","ChatGPT Image Nov 14, 2026, 05_02_13 AM.png"],
+  ["Donat Taro","Glaze taro berwarna ungu.","✦","ChatGPT Image Nov 14, 2026, 05_02_35 AM.png"],
   ["Donat Strawberry","Rasa stroberi yang manis.","●","ChatGPT Image Nov 14, 2026, 05_02_41 AM.png"],
   ["Donat Meses","Taburan meses cokelat.","✦","ChatGPT Image Nov 14, 2026, 05_02_48 AM.png"],
   ["Donat Chococrunchy","Cokelat dengan topping crunchy.","●","ChatGPT Image Nov 14, 2026, 05_02_55 AM.png"]
