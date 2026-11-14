@@ -37,7 +37,7 @@ const PRODUCTS = [
 ];
 
 const PRICE = 10000;
-const WA_NUMBER = "082223179650";
+const WA_NUMBER = "6282223179650";
 
 const grid = document.getElementById("productGrid");
 const dialog = document.getElementById("orderDialog");
